@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# SkillSphere
 
-# Run and deploy your AI Studio app
+**SkillSphere** is a data-driven career guidance platform designed to help students discover suitable career paths, identify skill gaps, and build personalized learning roadmaps.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/59ae6dab-6879-4c0b-baeb-13c073e2a08b
+* Career recommendations based on skills and interests
+* Skill assessment and skill-gap analysis
+* Career matching with analytics insights
+* Personalized learning roadmaps
+* AI-powered recommendations
+* Course and career exploration tools
+* Fully responsive design for mobile, tablet, and desktop
+* Customizable theme with a modern user interface
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+* **Frontend:** React, TypeScript, Tailwind CSS
+* **Backend:** Python, FastAPI
+* **Database:** Supabase / PostgreSQL
+* **AI & ML:** Python, Scikit-learn
+* **Charts:** Chart.js
+* **Authentication:** JWT
+* **Deployment:** Render
 
+## Goal
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The goal of SkillSphere is to help students make better and more informed career decisions by combining academic background, personal interests, and skill-based insights into a single intelligent system.
+
+## Project Overview
+
+SkillSphere is an educational technology project focused on career discovery, skill development, and personalized learning. It aims to bridge the gap between what students know and what the industry expects by providing clear, data-driven guidance.
+
+---
+
+SkillSphere — Discover your skills. Shape your future.
